@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-24T18:26:43 IST" name="Default suite" finished-at="2021-11-24T18:28:14 IST" duration-ms="91109">
+    <groups>
+    </groups>
+    <test started-at="2021-11-24T18:26:43 IST" name="Default test" finished-at="2021-11-24T18:28:14 IST" duration-ms="91109">
+      <class name="TestClasses.toVerifyGrowwHomePage">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:TestClasses.toVerifyGrowwHomePage@747edf66]" started-at="2021-11-24T18:26:43 IST" name="launchBrowser" finished-at="2021-11-24T18:27:08 IST" duration-ms="25123" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="login()[pri:0, instance:TestClasses.toVerifyGrowwHomePage@747edf66]" started-at="2021-11-24T18:27:08 IST" name="login" finished-at="2021-11-24T18:27:27 IST" duration-ms="19592" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="verifyInvestmentTab()[pri:0, instance:TestClasses.toVerifyGrowwHomePage@747edf66]" started-at="2021-11-24T18:27:27 IST" name="verifyInvestmentTab" finished-at="2021-11-24T18:27:34 IST" duration-ms="6406" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyInvestmentTab -->
+        <test-method is-config="true" signature="logOut()[pri:0, instance:TestClasses.toVerifyGrowwHomePage@747edf66]" started-at="2021-11-24T18:27:34 IST" name="logOut" finished-at="2021-11-24T18:27:38 IST" duration-ms="4226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+        <test-method is-config="true" signature="login()[pri:0, instance:TestClasses.toVerifyGrowwHomePage@747edf66]" started-at="2021-11-24T18:27:38 IST" name="login" finished-at="2021-11-24T18:27:57 IST" duration-ms="19210" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="verifyBalance()[pri:1, instance:TestClasses.toVerifyGrowwHomePage@747edf66]" started-at="2021-11-24T18:27:57 IST" name="verifyBalance" finished-at="2021-11-24T18:28:03 IST" duration-ms="6189" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBalance -->
+        <test-method is-config="true" signature="logOut()[pri:0, instance:TestClasses.toVerifyGrowwHomePage@747edf66]" started-at="2021-11-24T18:28:03 IST" name="logOut" finished-at="2021-11-24T18:28:08 IST" duration-ms="4216" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+        <test-method is-config="true" signature="closeTheBrowser()[pri:0, instance:TestClasses.toVerifyGrowwHomePage@747edf66]" started-at="2021-11-24T18:28:08 IST" name="closeTheBrowser" finished-at="2021-11-24T18:28:14 IST" duration-ms="6089" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeTheBrowser -->
+      </class> <!-- TestClasses.toVerifyGrowwHomePage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
